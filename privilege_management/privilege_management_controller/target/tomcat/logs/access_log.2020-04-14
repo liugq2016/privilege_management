@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:08:32:14 +0800] "GET /privilege/ HTTP/1.1" 302 - http-nio-80-exec-1 6088
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:08:32:18 +0800] "GET /privilege/login.jsp HTTP/1.1" 500 12197 http-nio-80-exec-3 3759

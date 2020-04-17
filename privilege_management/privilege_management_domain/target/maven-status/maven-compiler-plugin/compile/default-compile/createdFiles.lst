@@ -1,0 +1,7 @@
+cn\lgq\www\domain\Role.class
+cn\lgq\www\domain\Permission.class
+cn\lgq\www\domain\Product.class
+cn\lgq\www\domain\Orders.class
+cn\lgq\www\domain\Traveller.class
+cn\lgq\www\domain\Member_tab.class
+cn\lgq\www\domain\UserInfo.class
